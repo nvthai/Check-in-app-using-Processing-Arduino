@@ -9,3 +9,5 @@ HOW TO GET IT:
 Application will auto find an available Serial COM Port to get signal. 
 
 2. Use Arduino IDE to upload file *.ino to Arduino board (connect with a RC522 module)
+
+![alt tag](https://github.com/nvthai/Check-in-app-using-Processing-Arduino/blob/master/screenshot.png)
